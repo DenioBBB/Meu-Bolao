@@ -9,9 +9,9 @@ __Equipe:__ Bruno Ferys, Dênio Brasileiro, Júlio Melo e Marcílio Neto
 
 
 _Recife, 31 de março de 2015_
-_Versão 0.1_
+_Versão 1.0_
 
-__Sumário__
+~~ Sumário ~~
 +
 +
 +1. Introdução
