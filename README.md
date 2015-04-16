@@ -29,26 +29,28 @@ _Versão 1.0_
 
 
 
-1. Introdução:
+*1. Introdução:
 
 Este documento tem como finalidade definir o projeto Futebolão, explicitando suas principais peculiaridades, definindo prazos e tentando persuadir os steakholders de que este projeto tem um grande potencial de mercado.
 
 
      1.1 Objetivo:
-O projeto FUTEBOLÃO tem como objetivo desenvolver uma ferramenta para que os usuários possam realizar bolões  relacionados a campeonatos de futebol entre amigos.
-        1.2 Justificativa: 
-+Tendo em vista que o futebol é o esporte mais praticado no país, o FUTEBOLÃO visa a interação entre amigos para que possam realizar apostas sobre placares de jogos.
-+1.3 Cronograma e marcos : 
-+
-+MARCOS DO PROJETO
-+DATA
-+ATIVIDADES REALIZADAS
-+17/03/2015
-+Escolha dos membros da equipe
-+23/03/2015
-+Definição do tema do projeto
-+25/03/2015
-+Reunião para elaboração do Project Charter
+        O projeto FUTEBOLÃO tem como objetivo desenvolver uma ferramenta para que os usuários possam realizar bolões             relacionados a campeonatos de futebol entre amigos.
+
+     1.2 Justificativa: 
+        Tendo em vista que o futebol é o esporte mais praticado no país, o FUTEBOLÃO visa a interação entre amigos para que      Possam realizar apostas sobre placares de jogos.
+    
+    1.3 Cronograma e marcos : 
+    
+MARCOS DO PROJETO
+DATA
+ATIVIDADES REALIZADAS
+17/03/2015
+Escolha dos membros da equipe
+23/03/2015
+Definição do tema do projeto
+25/03/2015
+Reunião para elaboração do Project Charter
 +    31/03/2015
 +Apresentação do Project Charter
 +    30/06/2015
