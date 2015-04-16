@@ -11,25 +11,15 @@ __Equipe:__ Bruno Ferys, Dênio Brasileiro, Júlio Melo e Marcílio Neto.
 _Recife, 31 de março de 2015_
 _Versão 1.0_
 
-~~Sumário~~
-+
-+
-+1. Introdução
-+ 2
-+ 	1.1 Objetivo
-+ 2
-+ 	1.2 Justificativa
-+ 2
-+ 	1.3 Cronograma e marcos
-+ 2-3
-+2. Principais Steakholders
-+ 3
-+3. Riscos
-+ 3-4
-+4. Premissas e Restrições
-+ 4
-+
-+
+**Sumário**
+1. Introdução
+    1.1 Objetivo
+    1.2 Justificativa
+    1.3 Cronograma e marcos
+2. Principais Steakholders
+3. Riscos
+4. Premissas e Restrições
+
 +
 +
 +
