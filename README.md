@@ -5,13 +5,13 @@ O projeto "Meu Bolão" é um sistema para criação de bolões entre amigos rela
 
 Projeto de engenharia de Software dos alunos de sistemas da informação. Project Charter.
 
-__Equipe:__ Bruno Ferys, Dênio Brasileiro, Júlio Melo e Marcílio Neto
+__Equipe:__ Bruno Ferys, Dênio Brasileiro, Júlio Melo e Marcílio Neto.
 
 
 _Recife, 31 de março de 2015_
 _Versão 1.0_
 
-~~ Sumário ~~
+~~Sumário~~
 +
 +
 +1. Introdução
