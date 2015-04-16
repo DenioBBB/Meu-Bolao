@@ -41,9 +41,8 @@ O projeto FUTEBOLÃO tem como objetivo desenvolver uma ferramenta para que os us
 
 Tendo em vista que o futebol é o esporte mais praticado no país, o FUTEBOLÃO visa a interação entre amigos para que possam realizar apostas sobre placares de jogos.
     
-    1.3 Cronograma e marcos: 
+    1.3 Cronograma e marcos do projeto: 
     
-    **MARCOS DO PROJETO**
 
 DATA | ATIVIDADES REALIZADAS
 ----------- | ------------------------------------------
