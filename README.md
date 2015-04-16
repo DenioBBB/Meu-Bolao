@@ -1,13 +1,14 @@
 # Meu-Bolao
 O projeto "Meu Bolão" é um sistema para criação de bolões entre amigos relacionados a campeonatos de futebol utilizado como tema na disciplina de Engenharia de Software (IF977) do curso de Sistemas de Informação da UFPE. 
-
++
 # **FuteBolão**
-
++
 Projeto de engenharia de Software dos alunos de sistemas da informação.
 Project Charter
++
++
 
-
-
++
 +Bruno Ferys
 +Dênio Brasileiro
 +Júlio Melo
