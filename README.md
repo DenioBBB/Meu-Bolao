@@ -35,11 +35,11 @@ Este documento tem como finalidade definir o projeto Futebolão, explicitando su
 
     1.1 Objetivo:
 
-    O projeto FUTEBOLÃO tem como objetivo desenvolver uma ferramenta para que os usuários possam realizar bolões         relacionados a campeonatos de futebol entre amigos.
+O projeto FUTEBOLÃO tem como objetivo desenvolver uma ferramenta para que os usuários possam realizar bolões relacionados a campeonatos de futebol entre amigos.
 
     1.2 Justificativa:
 
-    Tendo em vista que o futebol é o esporte mais praticado no país, o FUTEBOLÃO visa a interação entre amigos para que      Possam realizar apostas sobre placares de jogos.
+Tendo em vista que o futebol é o esporte mais praticado no país, o FUTEBOLÃO visa a interação entre amigos para que possam realizar apostas sobre placares de jogos.
     
     1.3 Cronograma e marcos: 
     
