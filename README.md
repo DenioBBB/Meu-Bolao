@@ -44,6 +44,7 @@ Tendo em vista que o futebol é o esporte mais praticado no país, o FUTEBOLÃO 
 MARCOS DO PROJETO
 
 DATA | ATIVIDADES REALIZADAS
+----------- | ------------------------------------------
 17/03/2015 | Escolha dos membros da equipe
 23/03/2015 | Definição do tema do projeto
 25/03/2015 | Reunião para elaboração do Project Charter
