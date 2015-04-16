@@ -68,8 +68,8 @@ DATA | ATIVIDADES REALIZADAS
     * Sobrecarga dos membros da equipe, fazendo com que as atividades realizadas não fiquem exatamente como deveriam ser.
 
 * 4.Premissas e Restrições:
-    * 4.1Premissas:
-    * 
+    4.1Premissas:
+     
         Cumprir os prazos pré-estabelecidos pelo cronograma do projeto.
 
         Os documentos deverão ser constantemente revisados e melhorados, pela equipe.
@@ -79,7 +79,7 @@ DATA | ATIVIDADES REALIZADAS
         Conseguir conquistar a confiabilidade dos usuários que irão fazer as apostas.
         
         
-    * 4.2Restrições:
+    4.2Restrições:
     
         O projeto deverá ser finalizado até o dia 30/06/15.
         
