@@ -71,14 +71,14 @@ DATA | ATIVIDADES REALIZADAS
     
     4.1Premissas:
 
-* Cumprir os prazos pré-estabelecidos pelo cronograma do projeto.
-* Os documentos deverão ser constantemente revisados e melhorados, pela equipe.
-* Definir minuciosamente as necessidades e exigências cabíveis dos usuários, tentando sempre cumpri-las com agilidade.
-* Conseguir conquistar a confiabilidade dos usuários que irão fazer as apostas.
+    * Cumprir os prazos pré-estabelecidos pelo cronograma do projeto.
+    * Os documentos deverão ser constantemente revisados e melhorados, pela equipe.
+    * Definir minuciosamente as necessidades e exigências cabíveis dos usuários, tentando sempre cumpri-las com agilidade.
+    * Conseguir conquistar a confiabilidade dos usuários que irão fazer as apostas.
 
     4.2Restrições:
     
-O projeto deverá ser finalizado até o dia 30/06/15.
-Não haverá inclusão de mais integrantes.
-Uso exclusivo do Pivotal Tracker como meio de comunicação entre os integrantes do projeto e os Patrocinadores.
-Não haverá terceirização de mão de obra.
+    * O projeto deverá ser finalizado até o dia 30/06/15.
+    * Não haverá inclusão de mais integrantes.
+    * Uso exclusivo do Pivotal Tracker como meio de comunicação entre os integrantes do projeto e os Patrocinadores.
+    * Não haverá terceirização de mão de obra.
