@@ -52,26 +52,26 @@ DATA | ATIVIDADES REALIZADAS
 31/03/2015 | Apresentação do Project Charter
 30/06/2015 | Entrega do projeto
 
-* 2. Principais Stakeholders:
+* 2.Principais Stakeholders:
 Clientes/Usuários: Grupos de amigos amantes de futebol.
 Gerente de projeto: Dênio Brasileiro
 Desenvolvedores: Bruno Ferys, Júlio Melo e Marcílio Neto.
 
-* 3. Riscos:
+* 3.Riscos:
     * Atraso na entrega do projeto final, devido a inexperiência no uso da linguagem e de frameworks usados  no desenvolvimento, pela equipe.
     * Desconfiança, pelos usuários, em relação à veracidade dos ganhos das apostas.
     * Algum membro do desistir de prosseguir com o projeto.
     * Bugs inesperados no sistema.
     * Sobrecarga dos membros da equipe, fazendo com que as atividades realizadas não fiquem exatamente como deveriam ser.
 
-* 4. Premissas e Restrições:
-    4.1 Premissas:
-+Cumprir os prazos pré-estabelecidos pelo cronograma do projeto.
-+Os documentos deverão ser constantemente revisados e melhorados, pela equipe.
-+Definir minuciosamente as necessidades e exigências cabíveis dos usuários, tentando sempre cumpri-las com agilidade.
-+Conseguir conquistar a confiabilidade dos usuários que irão fazer as apostas.
-+	4.2 Restrições:
-+O projeto deverá ser finalizado até o dia 30/06/15.
-+Não haverá inclusão de mais integrantes.
-+Uso exclusivo do Pivotal Tracker como meio de comunicação entre os integrantes do projeto e os Patrocinadores.
-+Não haverá terceirização de mão de obra.
+* 4.Premissas e Restrições:
+    * 4.1Premissas:
+        Cumprir os prazos pré-estabelecidos pelo cronograma do projeto.
+        Os documentos deverão ser constantemente revisados e melhorados, pela equipe.
+        Definir minuciosamente as necessidades e exigências cabíveis dos usuários, tentando sempre cumpri-las com agilidade.
+        Conseguir conquistar a confiabilidade dos usuários que irão fazer as apostas.
+    * 4.2Restrições:
+        O projeto deverá ser finalizado até o dia 30/06/15.
+        Não haverá inclusão de mais integrantes.
+        Uso exclusivo do Pivotal Tracker como meio de comunicação entre os integrantes do projeto e os Patrocinadores.
+        Não haverá terceirização de mão de obra.
