@@ -1,4 +1,3 @@
-###### Este é um <h87> tag
 # Meu-Bolao
 O projeto "Meu Bolão" é um sistema para criação de bolões entre amigos relacionados a campeonatos de futebol utilizado como tema na disciplina de Engenharia de Software (IF977) do curso de Sistemas de Informação da UFPE. 
 
@@ -13,26 +12,21 @@ _Recife, 31 de março de 2015_
 _Versão 1.0_
 
 **Sumário**
+
 1. Introdução
+
     1.1 Objetivo
+    
     1.2 Justificativa
+    
     1.3 Cronograma e marcos
+    
 2. Principais Steakholders
+
 3. Riscos
+
 4. Premissas e Restrições
 
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
 +Introdução: 
 +	Este documento tem como finalidade definir o projeto Futebolão, explicitando suas principais peculiaridades, definindo prazos e tentando persuadir os steakholders de que este projeto tem um grande potencial de mercado.
 +1.1 Objetivo:
