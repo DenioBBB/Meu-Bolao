@@ -33,11 +33,11 @@ Este documento tem como finalidade definir o projeto Futebolão, explicitando su
 
 1.1 Objetivo:
    
-    O projeto FUTEBOLÃO tem como objetivo desenvolver uma ferramenta para que os usuários possam realizar bolões relacionados a campeonatos de futebol entre amigos.
+O projeto FUTEBOLÃO tem como objetivo desenvolver uma ferramenta para que os usuários possam realizar bolões relacionados a campeonatos de futebol entre amigos.
 
 1.2 Justificativa:
    
-    Tendo em vista que o futebol é o esporte mais praticado no país, o FUTEBOLÃO visa a interação entre amigos para que possam realizar apostas sobre placares de jogos.
+Tendo em vista que o futebol é o esporte mais praticado no país, o FUTEBOLÃO visa a interação entre amigos para que possam realizar apostas sobre placares de jogos.
     
 1.3 Cronograma e marcos do projeto: 
     
@@ -59,21 +59,27 @@ DATA | ATIVIDADES REALIZADAS
 **Desenvolvedores**: Bruno Ferys, Júlio Melo e Marcílio Neto.
 
 # __3.Riscos__:
-    * Atraso na entrega do projeto final, devido a inexperiência no uso da linguagem e de frameworks usados  no desenvolvimento, pela equipe.
-    * Desconfiança, pelos usuários, em relação à veracidade dos ganhos das apostas.
-    * Algum membro do desistir de prosseguir com o projeto.
-    * Bugs inesperados no sistema.
-    * Sobrecarga dos membros da equipe, fazendo com que as atividades realizadas não fiquem exatamente como deveriam ser.
+    Atraso na entrega do projeto final, devido a inexperiência no uso da linguagem e de frameworks usados  no desenvolvimento, pela equipe.
+    
+    Desconfiança, pelos usuários, em relação à veracidade dos ganhos das apostas.
+    
+    Algum membro do desistir de prosseguir com o projeto.
+    
+    Bugs inesperados no sistema.
+    
+    Sobrecarga dos membros da equipe, fazendo com que as atividades realizadas não fiquem exatamente como deveriam ser.
 
 # __4.Premissas e Restrições__:
     
     4.1Premissas:
 
+   
     * Cumprir os prazos pré-estabelecidos pelo cronograma do projeto.
     * Os documentos deverão ser constantemente revisados e melhorados, pela equipe.
     * Definir minuciosamente as necessidades e exigências cabíveis dos usuários, tentando sempre cumpri-las com agilidade.
     * Conseguir conquistar a confiabilidade dos usuários que irão fazer as apostas.
 
+    
     4.2Restrições:
     
     * O projeto deverá ser finalizado até o dia 30/06/15.
