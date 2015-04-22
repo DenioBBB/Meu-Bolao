@@ -59,15 +59,15 @@ DATA | ATIVIDADES REALIZADAS
 **Desenvolvedores**: Bruno Ferys, Júlio Melo e Marcílio Neto.
 
 # __3.Riscos__:
-    Atraso na entrega do projeto final, devido a inexperiência no uso da linguagem e de frameworks usados  no desenvolvimento, pela equipe.
+Atraso na entrega do projeto final, devido a inexperiência no uso da linguagem e de frameworks usados  no desenvolvimento, pela equipe.
     
-    Desconfiança, pelos usuários, em relação à veracidade dos ganhos das apostas.
+Desconfiança, pelos usuários, em relação à veracidade dos ganhos das apostas.
     
-    Algum membro do desistir de prosseguir com o projeto.
+Algum membro do desistir de prosseguir com o projeto.
+
+Bugs inesperados no sistema.
     
-    Bugs inesperados no sistema.
-    
-    Sobrecarga dos membros da equipe, fazendo com que as atividades realizadas não fiquem exatamente como deveriam ser.
+Sobrecarga dos membros da equipe, fazendo com que as atividades realizadas não fiquem exatamente como deveriam ser.
 
 # __4.Premissas e Restrições__:
     
