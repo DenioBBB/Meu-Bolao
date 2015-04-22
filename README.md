@@ -29,7 +29,7 @@ _Recife, 31 de março de 2015_
 
 # __1. Introdução:__
 
-    Este documento tem como finalidade definir o projeto Futebolão, explicitando suas principais peculiaridades, definindo prazos e tentando persuadir os steakholders de que este projeto tem um grande potencial de mercado.
+Este documento tem como finalidade definir o projeto Futebolão, explicitando suas principais peculiaridades, definindo prazos e tentando persuadir os steakholders de que este projeto tem um grande potencial de mercado.
 
    1.1 Objetivo:
    
