@@ -28,6 +28,10 @@ _Recife, 31 de março de 2015_
 
 4. Premissas e Restrições
 
+    4.1 Premissas
+    
+    4.2 Restrições
+
 
 
 # __1. Introdução:__
