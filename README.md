@@ -96,3 +96,7 @@ Não haverá inclusão de mais integrantes.
 Uso exclusivo do Pivotal Tracker como meio de comunicação entre os integrantes do projeto e os Patrocinadores.
 
 Não haverá terceirização de mão de obra.
+
+# 5.	Designação do gerente do projeto
+O Gerente de Projeto do FuteBolão será Dênio Brasileiro, na intenção de coordenar, estipular e cobrar o cumprimento dos marcos e prazos para que não haja uma alteração considerável nessas datas.
+
