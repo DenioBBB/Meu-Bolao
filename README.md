@@ -4,7 +4,10 @@
 O projeto "Meu Bolão" é um sistema para criação de bolões entre amigos relacionados a campeonatos de futebol utilizado como tema na disciplina de Engenharia de Software (IF977) do curso de Sistemas de Informação da UFPE. 
 
 Elaborado por: Bruno Ferys, Dênio Brasileiro, Júlio Melo e Marcílio Neto.
-Aprovado por: Dênio Brasileiro.
+
+Aprovado por: Dênio Brasileiro. 
+
+Versão 1.0 - Versão 1.1
 
 
 _Recife, 31 de março de 2015_
