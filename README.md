@@ -21,16 +21,18 @@ _Recife, 31 de março de 2015_
     1.2 Justificativa
     
     1.3 Cronograma e marcos
-    
-2. Principais Steakholders
 
-3. Riscos
+2. Riscos
 
-4. Premissas e Restrições
+3. Premissas e Restrições
 
     4.1 Premissas
     
     4.2 Restrições
+
+4. Designações do gerente do projeto
+
+5. Principais Steakholders
 
 
 
@@ -57,15 +59,8 @@ DATA | ATIVIDADES REALIZADAS
 31/03/2015 | Apresentação do Project Charter
 30/06/2015 | Entrega do projeto
 
-# __2.Principais Stakeholders__:
 
-**Clientes/Usuários**: Grupos de amigos amantes de futebol.
-
-**Gerente de projeto**: Dênio Brasileiro
-
-**Desenvolvedores**: Bruno Ferys, Júlio Melo e Marcílio Neto.
-
-# __3.Riscos__:
+# __2.Riscos__:
 Atraso na entrega do projeto final, devido a inexperiência no uso da linguagem e de frameworks usados  no desenvolvimento, pela equipe.
     
 Desconfiança, pelos usuários, em relação à veracidade dos ganhos das apostas.
@@ -76,8 +71,8 @@ Bugs inesperados no sistema.
     
 Sobrecarga dos membros da equipe, fazendo com que as atividades realizadas não fiquem exatamente como deveriam ser.
 
-# __4.Premissas e Restrições__:
-4.1Premissas:
+# __3.Premissas e Restrições__:
+3.1Premissas:
 Cumprir os prazos pré-estabelecidos pelo cronograma do projeto.
 
 Os documentos deverão ser constantemente revisados e melhorados, pela equipe.
@@ -87,7 +82,7 @@ Definir minuciosamente as necessidades e exigências cabíveis dos usuários, te
 Conseguir conquistar a confiabilidade dos usuários que irão fazer as apostas.
 
     
-4.2Restrições:
+3.2Restrições:
     
 O projeto deverá ser finalizado até o dia 30/06/15.
 
@@ -97,14 +92,25 @@ Uso exclusivo do Pivotal Tracker como meio de comunicação entre os integrantes
 
 Não haverá terceirização de mão de obra.
 
-# 5.	Designação do gerente do projeto
-O Gerente de Projeto do FuteBolão será Dênio Batista Brasileiro, na intenção de coordenar, estipular e cobrar o cumprimento dos marcos e prazos para que não haja uma alteração considerável nessas datas.
+# 4. __Designação do gerente do projeto__:
+O Gerente de Projeto do FuteBolão será Dênio Batista Brasileiro Bezerra, na intenção de coordenar, estipular e cobrar o cumprimento dos marcos e prazos para que não haja uma alteração considerável nessas datas.
 
 Descrição básica da equipe:
 
-* Bruno Ferys Ferreira da Silva - Desenvolvedor, designado à area de Front-end do projeto.
+* Bruno Ferys Ferreira da Silva - Desenvolvedor, responsável pelo parte de teste de software.
 
-* Julio Alexandre - Desenvolvedor, responsável pelo parte de teste de software.
+* Julio Alexandre Pereira de Melo - Desenvolvedor, designado à area de Front-end do projeto.
 
 * Marcílio Severino da Silva Neto - Desenvolvedor, com foco maior na documentação do projeto.
+
+# 5.__Principais Stakeholders__:
+
+**Clientes/Usuários**: Grupos de amigos amantes de futebol.
+
+**Gerente de projeto**: Dênio Brasileiro
+
+**Desenvolvedores**: Bruno Ferys(Engenheiro de Teste), Júlio Melo(Gerente de Tecnologia) e Marcílio Neto(Gerente de Qualidade).
+
+**Avaliadores**: Vinícius Cardoso e Sandrine Ventura.
+
 
