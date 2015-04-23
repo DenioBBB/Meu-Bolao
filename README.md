@@ -98,5 +98,13 @@ Uso exclusivo do Pivotal Tracker como meio de comunicação entre os integrantes
 Não haverá terceirização de mão de obra.
 
 # 5.	Designação do gerente do projeto
-O Gerente de Projeto do FuteBolão será Dênio Brasileiro, na intenção de coordenar, estipular e cobrar o cumprimento dos marcos e prazos para que não haja uma alteração considerável nessas datas.
+O Gerente de Projeto do FuteBolão será Dênio Batista Brasileiro, na intenção de coordenar, estipular e cobrar o cumprimento dos marcos e prazos para que não haja uma alteração considerável nessas datas.
+
+Descrição básica da equipe:
+
+* Bruno Ferys Ferreira da Silva - Desenvolvedor, designado à area de Front-end do projeto.
+
+* Julio Alexandre - Desenvolvedor, responsável pelo parte de teste de software.
+
+* Marcílio Severino da Silva Neto - Desenvolvedor, com foco maior na documentação do projeto.
 
