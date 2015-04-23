@@ -34,6 +34,7 @@ _Recife, 31 de março de 2015_
 
 5. Principais Steakholders
 
+6. Ligações com outros projetos
 
 
 # __1. Introdução:__
@@ -112,5 +113,9 @@ Descrição básica da equipe:
 **Desenvolvedores**: Bruno Ferys(Engenheiro de Teste), Júlio Melo(Gerente de Tecnologia) e Marcílio Neto(Gerente de Qualidade).
 
 **Avaliadores**: Vinícius Cardoso e Sandrine Ventura.
+
+# 6. __Ligações com outros projetos__:
+
+O projeto FuteBolão não tem ligação com outros projetos.
 
 
